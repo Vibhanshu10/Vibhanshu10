@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/2770cb93e25ba3e15252be2731557b4365b1224da5fce00750570fc5b22d9441/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Vibhanshu Tyagi</h1>
 <h3 align="center">A passionate about Data Science,Machine Learning and Frontend Developmentfrom India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
