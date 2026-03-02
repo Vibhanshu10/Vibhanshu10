@@ -1,15 +1,15 @@
 ![MasterHead]
 <h1 align="center">Hi 👋, I'm Vibhanshu Tyagi</h1>
-<h3 align="center">A passionate about Data Science,Machine Learning and Frontend Developmentfrom India</h3>
+<h3 align="center">A passionate about Data Science,Machine Learning from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshu10&label=Profile%20views&color=0e75b6&style=flat" alt="vibhanshu10" /> </p>
 
 - 🔭 I’m currently working on **Food_Recipe_Website**
 
-- 🌱 I’m currently learning **react and Deeplearning**
+- 🌱 I’m currently learning **DBT and Snowflake**
 
-- 💬 Ask me about **java,machine learning ,Html,Css**
+- 💬 Ask me about **java,machine learning ,Html,Css , DataScience**
 
 - 📫 How to reach me **vibhanshutyagi21@gmail.com**
 
